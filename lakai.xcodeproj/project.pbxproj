@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		610DBF3A1625A2C800563D26 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 610DBF391625A2C800563D26 /* Default-568h@2x.png */; };
 		611CE69315FD6AFE0066EEA2 /* CateViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 611CE69115FD6AFE0066EEA2 /* CateViewController.m */; };
 		611CE69415FD6AFE0066EEA2 /* CateViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 611CE69215FD6AFE0066EEA2 /* CateViewController.xib */; };
 		611CE69715FD6B230066EEA2 /* CateTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 611CE69615FD6B230066EEA2 /* CateTableCell.m */; };
@@ -221,6 +222,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		610DBF391625A2C800563D26 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		611CE69015FD6AFE0066EEA2 /* CateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CateViewController.h; sourceTree = "<group>"; };
 		611CE69115FD6AFE0066EEA2 /* CateViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CateViewController.m; sourceTree = "<group>"; };
 		611CE69215FD6AFE0066EEA2 /* CateViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CateViewController.xib; sourceTree = "<group>"; };
@@ -510,6 +512,7 @@
 		614ABC7F15ABD9450092CB0D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				610DBF391625A2C800563D26 /* Default-568h@2x.png */,
 				619CFBCC15FD6902002A122D /* Cates Images */,
 				619CFBC815FD68FC002A122D /* navigationbar_bg.png */,
 				619CFBC915FD68FC002A122D /* navigationbar_bg@2x.png */,
@@ -992,6 +995,7 @@
 				611CE6D215FD73FB0066EEA2 /* tmall_icon_cat_furniture_10.png in Resources */,
 				611CE6D515FD74F90066EEA2 /* wenhua8_flower.png in Resources */,
 				611CE6D615FD74F90066EEA2 /* wenhua9_gexing.png in Resources */,
+				610DBF3A1625A2C800563D26 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
